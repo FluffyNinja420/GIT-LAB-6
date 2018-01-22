@@ -1,2 +1,1 @@
-# GIT-LAB-6
-# GIT-LAB-6
+NIe wiem o co cho
